@@ -1,0 +1,68 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/IronManUltimate.unity
+    guid: fed50a7a834a8684190acdec438f8cff
+  - enabled: 1
+    path: Assets/Scenes/5v5Ultimate.unity
+    guid: 0de3ce8fa3dbaa64a97c1d113bdb8f43
+  - enabled: 1
+    path: Assets/Scenes/10v10Ultimate.unity
+    guid: a0ab453bd15708a4981a3e693e20e567
+  - enabled: 1
+    path: Assets/Scenes/IronManSm4sh.unity
+    guid: af749d69b0e2e144fbc44036f098b8ed
+  - enabled: 1
+    path: Assets/Scenes/5v5Sm4sh.unity
+    guid: eb11b0861be06bc43bf5167202e0f3bb
+  - enabled: 1
+    path: Assets/Scenes/10v10Sm4sh.unity
+    guid: 370f09096bf3dad44a7e73e242faf915
+  - enabled: 1
+    path: Assets/Scenes/IronManBrawl.unity
+    guid: d3e1282330c04d84e9624d0147b0ccd0
+  - enabled: 1
+    path: Assets/Scenes/5v5Brawl.unity
+    guid: a8d42587b619f094fb2fbe33ea2ffb7d
+  - enabled: 1
+    path: Assets/Scenes/10v10Brawl.unity
+    guid: 4c75d4acce304f74b860acc6f7380752
+  - enabled: 1
+    path: Assets/Scenes/IronManMelee.unity
+    guid: a4cf72d3d7ee6714bb703394a4bda4a5
+  - enabled: 1
+    path: Assets/Scenes/5v5Melee.unity
+    guid: 6b6477128ecaaa24a863a8cd7973360c
+  - enabled: 1
+    path: Assets/Scenes/10v10Melee.unity
+    guid: 2b2cb49aae2075441843d9af4918fd87
+  - enabled: 1
+    path: Assets/Scenes/IronManSmash64.unity
+    guid: 6deb5b0acb4e4174da4449e72fbce4ce
+  - enabled: 1
+    path: Assets/Scenes/5v5Smash64.unity
+    guid: 90cda55696bf4fb43a043eb9c652a995
+  - enabled: 1
+    path: Assets/Scenes/3v3Ultimate.unity
+    guid: 500a3e9ec63cf4a4ba09a424e6941e6d
+  - enabled: 1
+    path: Assets/Scenes/3v3Sm4sh.unity
+    guid: 8199064de3ebf3b469c572eebda342b0
+  - enabled: 1
+    path: Assets/Scenes/3v3Brawl.unity
+    guid: eb646eb4b907f184e8857b1df3528d64
+  - enabled: 1
+    path: Assets/Scenes/3v3Melee.unity
+    guid: 559df75cdcf7d0e4bbb40d2695b686a8
+  - enabled: 1
+    path: Assets/Scenes/3v3Smash64.unity
+    guid: 8586038a9af455b458e12fa5b7a3ba36
+  m_configObjects: {}

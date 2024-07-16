@@ -1,0 +1,16 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18e2325d52170946a395a903397d2e9, type: 3}
+  m_Name: WiiFitSO
+  m_EditorClassIdentifier: 
+  fighterName: Wii Fit Trainer
+  fighterIcon: {fileID: 21300000, guid: fe3012e085a353b42ac66f4717c13900, type: 3}
